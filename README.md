@@ -6,6 +6,8 @@ A browser-playable game built in Unity, created by **Saba Awais**.
 Ollie's Adventure is a Unity project exported as a WebGL build so it can be played directly in the browser. My pet parrot Ollie inspired me to make it and so I drew all the sprites and art myself. Overall,
 it was a super enjoyable project to work on and it helped me explore unity in a fun manner!
 
+For controls, use Arrow Keys or WASD
+
 If you do play the game, I hope you enjoy it :)
 
 ## Built with
@@ -16,5 +18,3 @@ If you do play the game, I hope you enjoy it :)
 This repository contains the compiled web build only. Source code and assets are part of a separate development project.
 
 ---
-
-© Saba Awais. All rights reserved — artwork and code are not licensed for reuse.

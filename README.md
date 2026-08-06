@@ -7,6 +7,7 @@ Ollie's Adventure is a Unity project exported as a WebGL build so it can be play
 it was a super enjoyable project to work on and it helped me explore unity in a fun manner!
 
 If you do play the game, I hope you enjoy it :)
+For controls, use Arrow Keys or WASD
 
 ## Built with
 - Unity (Web/WebGL build target)

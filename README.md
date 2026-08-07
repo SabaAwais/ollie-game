@@ -15,6 +15,6 @@ If you do play the game, I hope you enjoy it :)
 - C#
 
 ## Notes
-This repository contains the compiled web build only. Source code and assets are part of a separate development project.
+This repository contains the compiled web build only. 
 
 ---
